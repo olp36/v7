@@ -42,10 +42,10 @@ olp36v7 のビルドガイドです。
 
 ## キットとは別に必要なもの
 
-| No. | 名称 | 数量 | 備考 |
-|:---:|----|----|----|
+| 名称 | 数量 | 備考 |
+|----|----|----|
 | Kailhロープロファイルスイッチ | 36個 | [遊舎工房](https://shop.yushakobo.jp/products/pg1350)などで購入できます。 |
 | キーキャップ | 36個 | [遊舎工房](https://shop.yushakobo.jp/products/pg1350cap-blank)などで購入できます。 |
-| ProMicro | 1個 | [遊舎工房](https://shop.yushakobo.jp/products/promicro-spring-pinheader)などで購入できます。[Type-C版](https://shop.yushakobo.jp/products/3905)の場合は、保護プレートからはみ出す可能性があります。 |
-| コンスルー or ピンヘッダ | 2枚 | [遊舎工房](https://shop.yushakobo.jp/products/31)などで購入できます。高さが2.5mm以下のものを使用する必要があります。 |
+| ProMicro | 1個 | [遊舎工房](https://shop.yushakobo.jp/products/promicro-spring-pinheader)などで購入できます。<br>[Type-C版](https://shop.yushakobo.jp/products/3905)の場合は、保護プレートからはみ出す可能性があります。 |
+| コンスルー or ピンヘッダ | 2枚 | [遊舎工房](https://shop.yushakobo.jp/products/31)などで購入できます。<br>高さが2.5mm以下のものを使用する必要があります。 |
 | USBケーブル | 1個 | お使いのProMicroと適合するものを購入してください。 |
