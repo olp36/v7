@@ -8,4 +8,4 @@
 * ミドルプレート（オプション）
 * 裏返すとかわいいクマがいる
 
-![](assets/v7pcb.jpg)
+![](./docs/assets/v7pcb.jpg)
