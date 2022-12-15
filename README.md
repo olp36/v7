@@ -11,6 +11,6 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [ビルディングガイド](https://github.com/olp36/olp36v7/blob/main/docs/buildguide.md)
+* [ビルドガイド](https://github.com/olp36/olp36v7/blob/main/docs/buildguide.md)
 
 <!-- vim-markdown-toc -->
