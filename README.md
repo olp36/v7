@@ -12,5 +12,6 @@
 <!-- vim-markdown-toc GFM -->
 
 * [ビルドガイド](https://github.com/olp36/olp36v7/blob/main/docs/buildguide.md)
+* [ファームウェア](https://github.com/olp36/qmk_firmware/tree/olp36/)  `olp36` ブランチの `keyboards/olp36`
 
 <!-- vim-markdown-toc -->
