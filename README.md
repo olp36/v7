@@ -5,7 +5,12 @@
 * 手指の移動を極力なくした36キー
 * 安定する一体型であるが分割型の使い心地
 * ProMicroのコンスルー（スプリングピンヘッダ）対応
-* ミドルプレート（オプション）
 * 裏返すとかわいいクマがいる
 
 ![](./docs/assets/v7pcb.jpg)
+
+<!-- vim-markdown-toc GFM -->
+
+* [ビルディングガイド](https://github.com/olp36/olp36v7/blob/main/docs/buildguide.md)
+
+<!-- vim-markdown-toc -->
