@@ -160,7 +160,8 @@ Kailh Chocタイプのキーキャップがちょうど36個印字または刻�
 ### 9. ファームウェアを書き込む
 
 PCとUSBケーブルで接続し、QMKを使用してファームウェアを書き込みます。
-キーマップは、Mac用とWindows用のものを用意しています。
+キーマップは、Mac用（default）とWindows用のものを用意しています。
+[olp36/qmk_firmware](https://github.com/olp36/qmk_firmware/tree/olp36/)  `olp36` ブランチの `keyboards/olp36` にファームウェアがあります。
 
 リセットは、裏面の２箇所を短絡させることで行うことができます。
 
