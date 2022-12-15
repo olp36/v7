@@ -52,4 +52,4 @@ olp36v7 のビルドガイドです。
 
 PCBの側面をポスカの黒などで塗ると、見た目がよくなります。
 
-![ダミー画像](https://via.placeholder.com/500x300)
+![ダミー画像](http://via.placeholder.com/500x300)
