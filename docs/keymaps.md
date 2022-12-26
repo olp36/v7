@@ -119,4 +119,29 @@ SYSTEM Layer
 
 `qmk_firmware/keyboards/olp36` 内の `keymap.c` を書き換えることで、お好きなキーマップに変更することができます。
 
-何点か、
+何点か、JISキーボードのキーを設定する際に注意が必要なものがありますので、列挙しておきます。
+
+| OS | JISキー | QMKキーコード |
+|:---:|----|----|
+| Windows | ( | KC_ASTR |
+| ^ | ) | KC_LPRN |
+| ^ | : | KC_QUOT |
+| ^ | @ | KC_LBRC |
+| ^ | ＾ | KC_EQL |
+| ^ | [ | KC_RBRC |
+| ^ | ] | KC_NUHS |
+| ^ | " | LSFT(KC_2) |
+| ^ | # | LSFT(KC_3) |
+| ^ | $ | LSFT(KC_4) |
+| ^ | % | LSFT(KC_5) |
+| ^ | & | LSFT(KC_6) |
+| ^ | ' | LSFT(KC_7) |
+| ^ | = | LSFT(KC_MINS) |
+| ^ | + | LSFT(KC_SCLN) |
+| ^ | * | LSFT(KC_QUOT) |
+| ^ | \ | KC_INT1 |
+| ^ | _ | LSFT(KC_INT1) |
+| ^ | JP YEN | KC_INT3 |
+| ^ | ｜ | LSFT(KC_INT3) |
+| ^ | 変換 | KC_INT4 |
+| ^ | 無変換 | KC_INT5 |
