@@ -15,6 +15,7 @@ olp36v7は、以下の特徴をもっています。
 
 * [ビルドガイド](https://github.com/olp36/olp36v7/blob/main/docs/buildguide.md)
 * [ファームウェア](https://github.com/olp36/qmk_firmware/tree/olp36/keyboards/olp36)
+* [ファームウェアの書込](https://github.com/olp36/olp36v7/blob/main/docs/writefirmware.md)
 * [キーマップ](https://github.com/olp36/olp36v7/blob/main/docs/keymaps.md)
 
 <!-- vim-markdown-toc -->

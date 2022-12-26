@@ -167,6 +167,9 @@ PCとUSBケーブルで接続し、QMKを使用してファームウェアを書
 キーマップは、Windows用（default）とMacOS用（mac）のものを用意しています。
 [olp36/qmk_firmware](https://github.com/olp36/qmk_firmware/tree/olp36/)  `olp36` ブランチの `keyboards/olp36` にファームウェアがあります。
 
+具体的な書込みの手順については、[ファームウェアの書込](https://github.com/olp36/olp36v7/blob/main/docs/writefirmware.md)をご覧ください。
+
+
 キーマップのチートシートは、[キーマップ](https://github.com/olp36/olp36v7/blob/main/docs/keymaps.md)をご覧ください。
 
 初回リセットは、裏面の２箇所を短絡させることで行うことができます。
