@@ -121,27 +121,30 @@ SYSTEM Layer
 
 何点か、JISキーボードのキーを設定する際に注意が必要なものがありますので、列挙しておきます。
 
-| OS | JISキー | QMKキーコード |
-|:---:|----|----|
-| Windows | ( | KC_ASTR |
-| ^ | ) | KC_LPRN |
-| ^ | : | KC_QUOT |
-| ^ | @ | KC_LBRC |
-| ^ | ＾ | KC_EQL |
-| ^ | [ | KC_RBRC |
-| ^ | ] | KC_NUHS |
-| ^ | " | LSFT(KC_2) |
-| ^ | # | LSFT(KC_3) |
-| ^ | $ | LSFT(KC_4) |
-| ^ | % | LSFT(KC_5) |
-| ^ | & | LSFT(KC_6) |
-| ^ | ' | LSFT(KC_7) |
-| ^ | = | LSFT(KC_MINS) |
-| ^ | + | LSFT(KC_SCLN) |
-| ^ | * | LSFT(KC_QUOT) |
-| ^ | \ | KC_INT1 |
-| ^ | _ | LSFT(KC_INT1) |
-| ^ | JP YEN | KC_INT3 |
-| ^ | ｜ | LSFT(KC_INT3) |
-| ^ | 変換 | KC_INT4 |
-| ^ | 無変換 | KC_INT5 |
+| JISキー | QMKキーコード |
+|:---:|----|
+| ( | KC_ASTR |
+| ) | KC_LPRN |
+| : | KC_QUOT |
+| @ | KC_LBRC |
+| ＾ | KC_EQL |
+| [ | KC_RBRC |
+| ] | KC_NUHS |
+| ! | LSFT(KC_1) |
+| " | LSFT(KC_2) |
+| # | LSFT(KC_3) |
+| $ | LSFT(KC_4) |
+| % | LSFT(KC_5) |
+| & | LSFT(KC_6) |
+| ' | LSFT(KC_7) |
+| = | LSFT(KC_MINS) |
+| + | LSFT(KC_SCLN) |
+| * | LSFT(KC_QUOT) |
+| \ | KC_INT1 |
+| _ | LSFT(KC_INT1) |
+| ￥ | KC_INT3 |
+| ｜ | LSFT(KC_INT3) |
+| Windows 変換 | KC_INT4 |
+| Windows 無変換 | KC_INT5 |
+| Mac かな | KC_LNG1 |
+| Mac 英数 | KC_LNG2 |
