@@ -30,6 +30,12 @@ qmk setup olp36/qmk_firmware --branch olp36 --home C:/Users/<hoge>/GitHub/qmk_fi
 qmk hello
 ```
 
+コンパイルの確認には、以下のコマンドを実行します。
+
+```
+qmk compile -kb olp36 -km default
+```
+
 最後に、olp36のファームウェアを接続されたキーボードに書き込みます。
 QMK MSYSにて、以下のコマンドを実行します。
 
@@ -63,6 +69,12 @@ qmk setup olp36/qmk_firmware --branch olp36 --home /Users/<hoge>/Documents/GitHu
 
 ```
 qmk hello
+```
+
+コンパイルの確認には、以下のコマンドを実行します。
+
+```
+qmk compile -kb olp36 -km mac
 ```
 
 最後に、olp36のファームウェアを接続されたキーボードに書き込みます。
