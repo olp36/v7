@@ -46,7 +46,7 @@ qmk flash -kb olp36 -km default
 初回リセットは、裏面の２箇所を短絡させることで行うことができます。
 書込み後のリセットは、[キーマップ](https://github.com/olp36/olp36v7/blob/main/docs/keymaps.md)をご覧ください。
 
-![9.jpg](assets/500x300.png)
+![](assets/9.png)
 
 
 ## Mac
@@ -87,5 +87,5 @@ qmk flash -kb olp36 -km mac
 初回リセットは、裏面の２箇所を短絡させることで行うことができます。
 書込み後のリセットは、[キーマップ](https://github.com/olp36/olp36v7/blob/main/docs/keymaps.md)をご覧ください。
 
-![9.jpg](assets/500x300.png)
+![](assets/9.png)
 
