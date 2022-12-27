@@ -10,7 +10,7 @@ olp36シリーズのキーマップです。
 
 <!-- vim-markdown-toc GFM -->
 
-* [Windows](#windows)
+* [Windows(default)](#windows(default))
 * [Mac](#mac)
 * [キーマップを変更する](#キーマップを変更する)
 
