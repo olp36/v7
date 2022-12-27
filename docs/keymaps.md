@@ -140,6 +140,7 @@ SYSTEM Layer
 | = | LSFT(KC_MINS) |
 | + | LSFT(KC_SCLN) |
 | * | LSFT(KC_QUOT) |
+| ~ | LSFT(KC_EQL) |
 | \ | KC_INT1 |
 | _ | LSFT(KC_INT1) |
 | ￥ | KC_INT3 |
