@@ -10,13 +10,13 @@ olp36シリーズのキーマップです。
 
 <!-- vim-markdown-toc GFM -->
 
-* [Windows(default)](#windows(default))
+* [Windows](#windows) （デフォルト）
 * [Mac](#mac)
 * [キーマップを変更する](#キーマップを変更する)
 
 <!-- vim-markdown-toc -->
 
-## Windows(default)
+## Windows
 
 ```
 MAIN Layer
