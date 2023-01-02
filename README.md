@@ -9,8 +9,6 @@ olp36v7は、以下の特徴をもっています。
 * ProMicroのコンスルー（スプリングピンヘッダ）対応
 * 裏返すとかわいいクマがいる
 
-![](./docs/assets/v7pcb.png)
-
 ![](./docs/assets/olp36v7.png)
 
 <!-- vim-markdown-toc GFM -->
