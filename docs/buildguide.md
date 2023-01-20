@@ -45,7 +45,7 @@ olp36v7 のビルドガイドです。
 
 | 名称 | 数量 | 備考 |
 |----|----|----|
-| Kailhロープロファイルスイッチ<br>（Choc v1 スイッチ） | 36個 | [遊舎工房](https://shop.yushakobo.jp/products/pg1350)などで購入できます。<br>流通性は悪いのですが、個人的にはピンクの打鍵感がお勧めです。 |
+| Kailhロープロファイルスイッチ<br>（Choc v1 スイッチ） | 36個 | [遊舎工房](https://shop.yushakobo.jp/products/pg1350)などで購入できます。<br>個人的には赤軸が特にお勧めです。 |
 | キーキャップ | 36個 | [遊舎工房](https://shop.yushakobo.jp/products/pg1350cap-blank)などで購入できます。<br>レイアウトが狭いため、Kailh Chocタイプをご用意ください。 |
 | ProMicro | 1個 | [遊舎工房](https://shop.yushakobo.jp/products/promicro-spring-pinheader)などで購入できます。<br>[Type-C版](https://shop.yushakobo.jp/products/3905)の場合は、保護プレートからはみ出す可能性があります。 |
 | コンスルー or ピンヘッダ | 2枚 | [遊舎工房](https://shop.yushakobo.jp/products/31)などで購入できます。<br>高さ2.5mm以下のものを使用する必要があります。 |
